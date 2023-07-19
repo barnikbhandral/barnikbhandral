@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barnik Bhandral</h1>
-<h3 align="center">I'm a <b>Web Developer</b> from 🇮🇳 </h3>
+<h3 align="center">I'm a <b>Web Developer</b> </h3>
 <br/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=barnikbhandral&label=Visitor+Number&style=for-the-badge" alt=barnikbhandral/></p>
 
